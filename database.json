@@ -1,4 +1,5 @@
-[
+{
+  "list": [
   {
     "id": 1,
     "title": "Mua sắm",
@@ -99,4 +100,5 @@
     "tags": ["meeting", "project"],
     "color": "C8E6C9"
   }
-]
+  ]
+}
